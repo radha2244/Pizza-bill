@@ -7,11 +7,11 @@ A simple **Python console application** that simulates a pizza ordering and bill
 ##  How to Run
 
 1. Make sure Python is installed.
-2. Save the script as `pizza_billing.py`.
+2. Save the script as `pizza_bill.py`.
 3. Run the program:
 
 ```bash
-python pizza_billing.py
+python pizza_bill.py
 ```
 # Features
 Choose between:
